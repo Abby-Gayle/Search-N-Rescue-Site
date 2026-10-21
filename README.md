@@ -32,16 +32,20 @@ Testing the CRUD program 1st import the CRUD module then create an object. This 
 Screenshots
 
 Starter page:
+
 <img width="782" height="395" alt="image" src="https://github.com/user-attachments/assets/a2fca957-ed8a-4e22-9f0b-d6a9ad8b1c50" />
 <img width="800" height="235" alt="image" src="https://github.com/user-attachments/assets/ea29ec0a-2491-4a3a-91ed-f33529892ed5" />
   
 Disaster rescue page:
+
  <img width="950" height="488" alt="image" src="https://github.com/user-attachments/assets/f4f333b2-5290-4a14-aaaa-37344e3fc33c" />
 
 Mountain rescue page:
+ 
  <img width="844" height="431" alt="image" src="https://github.com/user-attachments/assets/a4b91f4d-c50c-4351-a86a-370bb98c9ab8" />
 
 Water rescue page:
+
 <img width="731" height="353" alt="image" src="https://github.com/user-attachments/assets/d4990a76-6993-4864-b5bd-b3575d98ec30" />
  <img width="749" height="311" alt="image" src="https://github.com/user-attachments/assets/db966d4f-4dcd-4478-91d8-4202a2ddff04" />
 
